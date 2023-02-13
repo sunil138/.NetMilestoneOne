@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MilestoneOneLibraryWithMVC_Feb13.props" />
+</Project>

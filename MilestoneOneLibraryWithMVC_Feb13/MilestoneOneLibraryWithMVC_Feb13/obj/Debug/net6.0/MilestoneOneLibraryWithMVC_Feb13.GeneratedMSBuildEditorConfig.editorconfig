@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MilestoneOneLibraryWithMVC_Feb13
+build_property.RootNamespace = MilestoneOneLibraryWithMVC_Feb13
+build_property.ProjectDir = C:\Users\ST293YY\source\repos\MilestoneOneLibraryWithMVC_Feb13\MilestoneOneLibraryWithMVC_Feb13\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ST293YY\source\repos\MilestoneOneLibraryWithMVC_Feb13\MilestoneOneLibraryWithMVC_Feb13
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TAuthors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEF1dGhvcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TAuthors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEF1dGhvcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TAuthors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEF1dGhvcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TAuthors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEF1dGhvcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TAuthors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEF1dGhvcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TBooks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvb2tzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TBooks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvb2tzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TBooks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvb2tzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TBooks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvb2tzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TBooks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvb2tzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TBorrows/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvcnJvd3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TBorrows/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvcnJvd3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TBorrows/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvcnJvd3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TBorrows/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvcnJvd3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TBorrows/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvcnJvd3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TStudents/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFN0dWRlbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TStudents/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFN0dWRlbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TStudents/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFN0dWRlbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TStudents/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFN0dWRlbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/TStudents/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFN0dWRlbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/MilestoneOneLibraryWithMVC_Feb13/MilestoneOneLibraryWithMVC_Feb13/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1knmgw4xeu
